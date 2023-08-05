@@ -17,7 +17,7 @@ function isPalindrome(str) {
   return true; // All characters matched, it's a palindrome
 }
 
-// Test cases ALL
+// Here are all Test cases 
 console.log(isPalindrome("racecar")); // true
 console.log(isPalindrome("hello"));   // false
 console.log(isPalindrome("A man, a plan, a canal, Panama")); // true
