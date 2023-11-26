@@ -1,7 +1,7 @@
 //write a program that prints the numbers from 1 t0 100 , but for
 //multiplies of 3 , print FIZZ instead of the number and for 
 //multiplies of 5, print BUZZ and for numbers that are
-//multiples of both 3 and 5 priont fizzbuzz
+//multiples of both 3 and 5 priont fizzbuzz.....
 
 
 for(let i=1; i<=100; i++){
